@@ -1,28 +1,32 @@
 {
   "name": "Saleh Musa",
-  "title": "Environmental Health Tutor",
-  "photo": "https://images.unsplash.com/photo-1603415526960-f7e0328b7e92?crop=faces&fit=crop&w=400&h=400",
-  "location": "Kaduna State, Nigeria",
-  "education": {
-    "institution": "Kaduna State College of Health Sciences and Technology",
-    "degree": "Diploma in Environmental Health",
-    "graduationYear": 2024
+  "role": "Health Tutor | Public Wellness Advocate",
+  "photo": "https://i.postimg.cc/vB6VkFsD/IMG-20251026-WA0055.jpg",
+  "button_url": "https://ceo-talk2health.vercel.app",
+  "theme": {
+    "primary": "#1E3A8A",
+    "secondary": "#E0E7FF",
+    "accent": "#3B82F6",
+    "gradient": "linear-gradient(135deg, #0F172A, #1E3A8A)"
   },
-  "bio": "Saleh Musa is a passionate environmental health tutor who specializes in hygiene promotion, waste management, and public health sanitation. His goal is to train future health workers to protect communities through practical, sustainable methods.",
-  "skills": ["Environmental Health", "Water & Sanitation (WASH)", "Disease Prevention", "Community Outreach", "Public Health Education"],
-  "testimonials": [
+  "bio": "Saleh Musa is a Health Tutor and community wellness advocate committed to translating preventive health knowledge into practical action. A mentor to many young learners, Saleh’s teaching blends empathy, structure, and clarity — equipping future healthcare workers with confidence and real-world insight. He has contributed to several regional awareness campaigns and remains passionate about using education as a bridge between science and society.",
+  "cards": [
     {
-      "name": "Maryam Abdullahi",
-      "comment": "Mr. Saleh’s teaching blends theory with real-life examples that make lessons unforgettable."
+      "title": "Professional Focus",
+      "content": "Health education, behavioral change communication, and youth mentorship — integrating traditional learning with community-based approaches."
     },
     {
-      "name": "Joseph Danladi",
-      "comment": "A disciplined yet approachable tutor who brings energy and relevance to every session."
+      "title": "Achievements",
+      "content": "Facilitated local training sessions for 200+ CHEW students; recognized for simplifying complex health concepts through relatable storytelling."
+    },
+    {
+      "title": "Vision",
+      "content": "To build a network of confident, compassionate health educators who can teach with both scientific accuracy and cultural understanding."
     }
   ],
   "socials": {
-    "linkedin": "https://linkedin.com/in/saleh-musa",
-    "email": "mailto:saleh.musa@consultancyfirm.ng",
-    "whatsapp": "https://wa.me/2348098765432"
+    "facebook": "https://facebook.com/",
+    "instagram": "https://instagram.com/",
+    "x": "https://x.com/"
   }
 }
